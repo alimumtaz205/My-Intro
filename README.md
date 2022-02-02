@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @alimumtaz205
-- 👀 I’m interested in Software and Web development
+- 👋 Hi, I’m Mumtaz Ali, a software engineer by birth, 
+- ✨ I have written my first Hello World program at the age of 12 in C++ language
+- 👀 I have strong grip on Angular 8+, JavaScript and .Net Core (Web APIs)
+- 📫 I have also workd on Database (Oracle, MySQL, SQL Server), Version control system (GitHub), Wordpress
 - 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web deelopment & software development
 - 📫 How to reach me 92 346 9555768
 
 <!---
